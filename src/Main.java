@@ -5,7 +5,7 @@
 public class Main {
     static void main(String[] args) {
         Adder adder = new Adder();
-        System.out.println(adder.add(1, 2));
+        System.out.println(adder.add(2, 4));
 
         Subtractor subtractor = new Subtractor();
 
